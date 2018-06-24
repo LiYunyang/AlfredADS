@@ -7,6 +7,7 @@ Perform quick search of an article according to its citation (e.g., Li & Bregman
 ![img](https://github.com/LiYunyang/AlfredADS/blob/master/example/citation.png)
 
 Alternatively, type the name of the author to do search for all related articles.
+Common logic including `^` and `=` are supported.
 ![img](https://github.com/LiYunyang/AlfredADS/blob/master/example/adam.png)
 
 ## Installation
