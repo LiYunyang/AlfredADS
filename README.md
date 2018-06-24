@@ -4,11 +4,11 @@ Alfred tool for a quick search on NASA-ADS
 
 ## What I can do
 Perform quick search of an article according to its citation (e.g., Li & Bregman (2018)):
-![img](https://github.com/LiYunyang/AlfredADS/example/citation.png)
+![img](https://github.com/LiYunyang/AlfredADS/tree/master/example/citation.png)
 
 Alternatively, type the name of the author to do search for all related articles.
-![img](https://github.com/LiYunyang/AlfredADS/example/adam.png)
+![img](https://github.com/LiYunyang/AlfredADS/tree/master/example/adam.png)
 
 ## Installation
 download `ads.alfredworkflow`
-![link](https://github.com/LiYunyang/AlfredADS/ads.alfredworkflow)
+[this link](https://github.com/LiYunyang/AlfredADS/tree/master/ads.alfredworkflow)
