@@ -10,4 +10,4 @@ Alternatively, type the name of the author to do search for all related articles
 ![img](https://github.com/LiYunyang/AlfredADS/tree/master/example/adam.png)
 
 ## Installation
-download [ads.alfredworkflow](https://github.com/LiYunyang/AlfredADS/tree/master/ads.alfredworkflow)
+download [ads.alfredworkflow](https://github.com/LiYunyang/AlfredADS/raw/master/ads.alfredworkflow)
